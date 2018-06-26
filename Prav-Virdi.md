@@ -1,6 +1,5 @@
 ---
-layout: slide
-title: "Welcome to our second slide"
+Test: GitHub
+title: "GitHub-Labs"
 ---
-Test
-Use the left arrow to go back!
+Updated
